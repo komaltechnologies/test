@@ -1,3 +1,2 @@
 this is my second file dude please look this changes
-i am a cool guy
-notepad++ second.txt
+
